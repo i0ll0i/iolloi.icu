@@ -1,0 +1,3 @@
+[submodule "posts/how-to-search-for-a-users-location-within-active-directory"]
+	path = posts/how-to-search-for-a-users-location-within-active-directory
+	url = git@github.com:i0ll0i/how-to-search-for-a-users-location-within-active-directory.git
